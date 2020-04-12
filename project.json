@@ -4,9 +4,9 @@
     "version": "0.4.0"
   },
   {
-    "id": "@metagame",
+    "id": "@poktnetwork",
     "discord": {
-      "guildId": "629411177947987986",
+      "guildId": "553741558869131266",
       "reactionWeights": {
         "👍": 1,
         "🔥": 1,
@@ -18,23 +18,10 @@
       }
     },
     "discourseServer": {
-      "serverUrl": "https://forum.metagame.wtf"
+      "serverUrl": "https://research.pokt.network/"
     },
     "identities": [
       {"username": "Beanow", "aliases": ["github/Beanow", "discord/143776454050709505"]},
-      {"username": "geleeroyale", "aliases": ["github/geleeroyale", "discord/426314998822731787"]},
-      {"username": "hammadj", "aliases": ["github/hammadj", "discord/118260545211072517", "discourse/METADREAMER"]},
-      {"username": "YalorMewn", "aliases": ["github/YalorMewn", "discord/360481131029856256", "discourse/Yalortackson"]},
-      {"username": "burrrata", "aliases": ["github/burrrata", "discord/657069807505637397", "discourse/burrrata"]},
-      {"username": "sepu85", "aliases": ["github/sepu85", "discord/390217328123707394"]},
-      {"username": "nicolas-law", "aliases": ["github/nicolas-law", "discord/250008348571729932"]},
-      {"username": "peth-yursick", "aliases": ["github/peth-yursick", "discord/370936911268806667", "discourse/peth"]},
-      {"username": "sbutler-gh", "aliases": ["github/sbutler-gh"]},
-      {"username": "moarshy", "aliases": ["github/moarshy"]},
-      {"username": "AlexMasmej", "aliases": ["github/AlexMasmej", "discord/386587341117980673", "discourse/alexmasmej"]},
-      {"username": "mZ", "aliases": ["github/mzargham", "discord/250086586450968576", "discourse/mzargham"]},
-      {"username": "JayWelsh", "aliases": ["github/JayWelsh", "discord/223439370558898176"]},
-      {"username": "pacobacpac", "aliases": ["github/pakokrew", "discord/507972449132871681"]},
       {"username": "Saimano", "aliases": ["github/manolingam", "discord/505789102222737420"]},
       {"username": "penguin", "aliases": ["github/c0mput3rxz", "discord/208321561982271489", "discourse/c0mput3rxz"]}
     ],
