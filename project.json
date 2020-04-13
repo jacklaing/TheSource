@@ -22,7 +22,7 @@
       }
     },
     "discourseServer": {
-      "serverUrl": "https://research.pokt.network/"
+      "serverUrl": "https://research.pokt.network"
     },
     "identities": [
       {"username": "andrewnguyen", "aliases": ["github/andrewnguyen22", "discord/573878666065608735", "discourse/Andrew"]},
