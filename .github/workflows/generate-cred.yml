@@ -26,13 +26,13 @@ jobs:
             SC_CACHE-${{ hashFiles('**/project.json') }}-
             SC_CACHE-
       - name: Run SourceCred
-        uses: vsoch/cred-action@master
+        uses: vsoch/cred-action@wip-discord-cache
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
         with:
           weights: weights.json
-          project: "@pokt-network"
+          project: "pokt-network"
           project-file: project.json
           branch-against: master
           automated: true
