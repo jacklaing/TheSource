@@ -4,7 +4,7 @@
     "version": "0.4.0"
   },
   {
-    "id": "@pokt-network",
+    "id": "pokt-network",
     "discord": {
       "guildId": "553741558869131266",
       "reactionWeights": {
