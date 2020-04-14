@@ -94,6 +94,30 @@
       {
       "name": "tendermint",
       "owner": "pokt-network"
+      },
+      {
+      "name": "integration-icon",
+      "owner": "pokt-network"
+      },
+      {
+      "name": "js-algorand-sdk",
+      "owner": "pokt-network"
+      },
+      {
+      "name": "icon-pocket-provider",
+      "owner": "pokt-network"
+      },
+      {
+      "name": "testnet-faucet",
+      "owner": "pokt-network"
+      },
+      {
+      "name": "homebrew-pocket-core",
+      "owner": "pokt-network"
+      },
+      {
+      "name": "leif",
+      "owner": "pokt-network"
       }
     ]
   }
