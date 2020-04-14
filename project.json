@@ -82,6 +82,18 @@
       {
         "name": "pocket-runner",
         "owner": "pokt-network"
+      },
+      {
+      "name": "pocket-dashboard",
+      "owner": "pokt-network"
+      },
+      {
+      "name": "prlts",
+      "owner": "pokt-network"
+      },
+      {
+      "name": "tendermint",
+      "owner": "pokt-network"
       }
     ]
   }
