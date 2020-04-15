@@ -130,26 +130,6 @@
       {
       "name": "amino-js",
       "owner": "pokt-network"
-      },
-      {
-      "name": "ed25519",
-      "owner": "pokt-network"
-      },
-      {
-      "name": "TezosKit",
-      "owner": "pokt-network"
-      },
-      {
-      "name": "pocket-swift",
-      "owner": "pokt-network"
-      },
-      {
-      "name": "pocket-android",
-      "owner": "pokt-network"
-      },
-      {
-      "name": "merkle",
-      "owner": "pokt-network"
       }
     ]
   }
