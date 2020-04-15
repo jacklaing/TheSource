@@ -126,10 +126,6 @@
       {
       "name": "icon-sdk-js",
       "owner": "pokt-network"
-      },
-      {
-      "name": "amino-js",
-      "owner": "pokt-network"
       }
     ]
   }
