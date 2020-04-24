@@ -110,22 +110,6 @@
       {
       "name": "testnet-faucet",
       "owner": "pokt-network"
-      },
-      {
-      "name": "homebrew-pocket-core",
-      "owner": "pokt-network"
-      },
-      {
-      "name": "leif",
-      "owner": "pokt-network"
-      },
-      {
-      "name": "pocket-aat-lambda",
-      "owner": "pokt-network"
-      },
-      {
-      "name": "icon-sdk-js",
-      "owner": "pokt-network"
       }
     ]
   }
